@@ -1,4 +1,4 @@
-# Project Name
+# Phone tracking app
 
 This project is a web application built with Laravel 10, ReactJS, InertiaJS, PusherJS, and React-Leaflet.js. It serves as a dashboard with exposed endpoints for managing accounts and tracking real-time and historical location data from mobile devices. project is still in alpha phase.
 
